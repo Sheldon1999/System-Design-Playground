@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# Build outputs
+**/target/
+**/build/
+out/
+*.log
